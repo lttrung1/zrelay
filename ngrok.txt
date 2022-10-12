@@ -1,0 +1,1 @@
+ngrok  config add-with token 2FfGv2iKfiJKmOdF93mIcWETJVg_xnD7VqVw64aFJqPAppx3
